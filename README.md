@@ -1,4 +1,4 @@
-my first java project SnakeGame
+My First Java Project SnakeGame
 # Snake Game
 
 ## Introduction
