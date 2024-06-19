@@ -10,7 +10,8 @@ public class SnakeGame extends JFrame {
 
         setVisible(true);
         // setLocation(500,500);
-        setSize(300,300);
+        setResizable(false);
+        // setSize(300,300);
         setLocationRelativeTo(null);
         
 
